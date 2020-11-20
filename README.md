@@ -7,4 +7,4 @@ Backend Developer for [Hyper Software](https://hyperrafflebot.io/)
 🏡 Location:
 Residing in Los Angeles, California
 
-📫 [Contact](mailto:danielsu@protonmail.com)
+📫 [Contact Me](mailto:danielsu@protonmail.com)
