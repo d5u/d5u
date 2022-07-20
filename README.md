@@ -2,9 +2,9 @@
 Full Stack Developer with a focus on the backend. My main language is Javascript/Typescript but I am exploring Rust in my free time!
 
 #### 💻 Current:
-Software Engineer for [Ladder](https://ladder.to/)
+Software Engineer for [Nova](https://joinnova.co/c/home)
 
 #### 🏡 Location:
 Residing in Los Angeles, California
 
-#### 📫 [Contact Me](https://danielsu.dev)
+#### 🌐 [View my portfolio](https://danielsu.dev)
