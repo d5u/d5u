@@ -7,4 +7,4 @@ Backend Engineer for Consensys
 #### 🏡 Location:
 Residing in Los Angeles, California
 
-#### 🌐 [View my portfolio](https://danielsu.dev)
+#### 🌐 [View my portfolio](https://danielsu.dev) (out-of-date)
