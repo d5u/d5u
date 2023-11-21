@@ -1,10 +1,4 @@
 ### Hello! I'm Daniel 👋
-Software engineer with a focus on the backend. My main coding language is Javascript/Typescript but I am exploring Rust in my free time!
+##### Backend engineer building (and breaking) cool software @ [Consensys](https://github.com/Consensys)
 
-#### 💻 Current:
-Backend Engineer for Consensys
-
-#### 🏡 Location:
-Residing in Los Angeles, California
-
-#### 🌐 [View my portfolio](https://danielsu.dev) (out-of-date)
+##### 🌐 [Connect with me](https://danielsu.dev) (out-of-date)
